@@ -8,4 +8,5 @@
 [Training - kohya_ss](https://github.com/bmaltais/kohya_ss)  
 [Test - stable_diffusion_webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-🤠 Demo : https://wastedetection-ms3.streamlit.app/
+
+🤠 Demo : https://stablediffusion-ms3.streamlit.app
